@@ -95,3 +95,4 @@ To assess the system’s detection efficiency, simulate security events:
 - **Map threats with MITRE ATT&CK** for actionable insights.
 
 🔹 **Next Steps:** Optimize your **SIEM Stack** based on analysis findings!
+
