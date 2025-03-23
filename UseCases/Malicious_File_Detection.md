@@ -107,4 +107,6 @@ Expected output:
 - **Monitor and scan suspicious files** automatically.
 - **Quarantine infected files** before they cause harm.
 
+🔹 **Next Steps:** Explore **[Security Awareness Module](Security_Awareness_Module.md)** to analyze detected threats!
+
 🔹 **Next Steps:** Explore **[Security Analysis & Reporting](Experimental_Results.md)** to analyze detected threats!

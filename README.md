@@ -22,25 +22,25 @@ This SIEM stack follows a **multi-layered defense model**, incorporating:
 ## 📂 Project Structure
 ```
 📂 Next-Gen-SIEM-Stack
-├── 📄 [README.md](README.md)             # Project overview
-├── 📄 [Architecture.md](Architecture.md)       # System design and security policies
-├── 📄 [Installation.md](Installation.md)       # Setup guide for all components
+├── 📄 README.md            # Project overview
+├── 📄 Architecture.md       # System design and security policies
+├── 📄 Installation.md       # Setup guide for all components
 ├── 📂 UseCases             # Security monitoring use cases
-│   ├── 📄 [File_Integrity_Monitoring.md](UseCases/File_Integrity_Monitoring.md)
-│   ├── 📄 [Network_IDS_Suricata.md](UseCases/Network_IDS_Suricata.md)
-│   ├── 📄 [Vulnerability_Assessment.md](UseCases/Vulnerability_Assessment.md)
-│   ├── 📄 [Malicious_Command_Detection.md](UseCases/Malicious_Command_Detection.md)
-│   ├── 📄 [SSH_Brute_Force_Prevention.md](UseCases/SSH_Brute_Force_Prevention.md)
-│   ├── 📄 [Malicious_File_Detection.md](UseCases/Malicious_File_Detection.md)
-├── 📄 [Experimental_Results.md](Experimental_Results.md)  # Performance evaluation and analysis
-├── 📄 [Contributing.md](Contributing.md)       # Contribution guidelines
-├── 📄 [License.md](License.md)            # Licensing details
+│   ├── 📄 [File_Integrity_Monitoring.md]
+│   ├── 📄 [Network_IDS_Suricata.md]
+│   ├── 📄 [Vulnerability_Assessment.md]
+│   ├── 📄 [Malicious_Command_Detection.md]
+│   ├── 📄 [SSH_Brute_Force_Prevention.md]
+│   ├── 📄 [Malicious_File_Detection.md]
+├── 📄 Experimental_Results.md  # Performance evaluation and analysis
+├── 📄 Contributing.md         # Contribution guidelines
+├── 📄 License.md            # Licensing details
 ```
 
 ## 🚀 Getting Started
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/Next-Gen-SIEM-Stack.git
+   git clone https://github.com/kc-codes/Next-Generation-SIEM-Stack.git
    ```
 2. Follow the [Installation Guide](Installation.md) to set up the SIEM system.
 3. Explore different security monitoring use cases in the **[UseCases](UseCases/)** directory.
