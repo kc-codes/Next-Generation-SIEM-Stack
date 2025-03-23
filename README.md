@@ -10,7 +10,7 @@ The **Next Generation SIEM Stack** is a robust security monitoring framework int
 - **[Malicious Command Execution Detection](UseCases/Malicious_Command_Detection.md)** – Monitors commands for unauthorized system modifications.
 - **[SSH Brute-Force Prevention](UseCases/SSH_Brute_Force_Prevention.md)** – Identifies and blocks repeated failed login attempts.
 - **[VirusTotal API Integration](UseCases/Malicious_File_Detection.md)** – Detects and classifies malware-infected files.
-- **[Security Awareness Module](Architecture.md#security-awareness-module)** – Provides 300+ best practices to improve personal security.
+- **[Security Awareness Module](UseCases/Security_Awareness_Module.md)** – Provides 300+ best practices to improve personal security.
 
 ## 🏗️ System Architecture
 This SIEM stack follows a **multi-layered defense model**, incorporating:
